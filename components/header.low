@@ -1,0 +1,16 @@
+component.header={
+    class="header"
+    component.h1="Welcome to My Site"
+    component.nav={
+        component.ul={
+            component.li="Home"
+            component.li="About"
+            component.li="Contact"
+        }
+    }
+}
+
+component.footer={
+    class="footer"
+    component.p="© 2024 My Site"
+}

@@ -1,0 +1,2 @@
+// util.lowjs
+console.log("Utility script loaded");
